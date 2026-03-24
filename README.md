@@ -2,6 +2,7 @@
 
 A simple Artificial Neural Network built with PyTorch to classify handwritten digits from the MNIST dataset.
 
+
 ## What this project does
 
 - Loads the MNIST dataset (70,000 images of handwritten digits 0–9)
